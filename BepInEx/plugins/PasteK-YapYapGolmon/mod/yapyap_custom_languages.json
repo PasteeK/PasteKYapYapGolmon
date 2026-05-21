@@ -1,0 +1,12 @@
+{
+  "languages": [
+    {
+      "id": "golmon",
+      "displayName": "Golmons",
+      "systemLanguage": "Unknown",
+      "modelFolder": "Models/vosk-model-small-fr-0.22",
+      "localisationFile": "Localisation/golmon.txt",
+      "fallback": "english"
+    }
+  ]
+}

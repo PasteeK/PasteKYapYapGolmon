@@ -1,0 +1,10 @@
+{
+    "name": "YapYapGolmon",
+    "version_number": "1.0.7",
+    "website_url": "https://github.com/PasteK/YapYapGolmon",
+    "description": "yapyap golmon support",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2304",
+	"GOOGNA_DEV_SQUAD-YapYapMoreLanguages-1.0.9"
+    ]
+}
