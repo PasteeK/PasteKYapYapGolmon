@@ -1,7 +1,7 @@
 {
     "name": "YapYapGolmon",
     "version_number": "1.0.7",
-    "website_url": "https://github.com/PasteK/YapYapGolmon",
+    "website_url": "https://github.com/PasteeK/PasteKYapYapGolmon",
     "description": "yapyap golmon support",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2304",
